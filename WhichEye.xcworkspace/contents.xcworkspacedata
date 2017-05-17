@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "container:WhichEye.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:macOS_Example/macOS_Example/macOS_Example.xcodeproj">
+   </FileRef>
+</Workspace>
